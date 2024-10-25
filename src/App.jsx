@@ -1,6 +1,6 @@
 import { useState } from "react";
-import "../src/cssGeral/MundoDeLaura.css";
 import "../src/cssGeral/cssGeral.css";
+import "./App.css"
 
 import jogosNintendo from "../src/api/jogosNintendo";
 
