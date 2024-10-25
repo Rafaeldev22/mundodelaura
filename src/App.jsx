@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.css";
+import "../src/cssGeral/MundoDeLaura.css";
 import "../src/cssGeral/cssGeral.css";
 
 import jogosNintendo from "../src/api/jogosNintendo";
