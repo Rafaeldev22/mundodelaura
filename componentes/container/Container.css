@@ -1,0 +1,19 @@
+.imgs {
+    border-radius: 15px;
+    max-width: 180px;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .capa-jogos{
+    width: 110%;
+    transition: all .2s ease-in-out;
+  }
+
+  img:hover {
+    transform: scale(1.3) rotate(-5deg);
+  }
